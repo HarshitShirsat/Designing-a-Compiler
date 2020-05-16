@@ -3,7 +3,7 @@ Designing a Lexical Analyzer and using Bottom Up Parser for parsing in Python fo
 
 int main()  
 begin  
-  int L[10];  
+&nbspint L[10];  
   int maxval=L[0];  
   for i=1 to n-1 do  
     if L[i]>maxval  
