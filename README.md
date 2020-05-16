@@ -1,7 +1,7 @@
 # Designing-a-Compiler
 Designing a Lexical Analyzer and using Bottom Up Parser for parsing in Python for the code snippet below.
 
-int main()
+int main()\n
 begin
   int L[10];
   int maxval=L[0];
